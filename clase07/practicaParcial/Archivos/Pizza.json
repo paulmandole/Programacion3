@@ -1,0 +1,30 @@
+[
+    {
+        "id": 7833,
+        "sabor": "muzzarela con huevo y jamon",
+        "precio": "1400",
+        "tipo": "molde",
+        "cantidad": 189
+    },
+    {
+        "id": 6622,
+        "sabor": "muzzarela con huevo y jamon",
+        "precio": "1400",
+        "tipo": "piedra",
+        "cantidad": "4"
+    },
+    {
+        "id": 7683,
+        "sabor": "muzzarela con cebolla",
+        "precio": "1200",
+        "tipo": "molde",
+        "cantidad": 125
+    },
+    {
+        "id": 7865,
+        "sabor": "mozzarella y salami",
+        "precio": "1600,80",
+        "tipo": "molde",
+        "cantidad": "10"
+    }
+]

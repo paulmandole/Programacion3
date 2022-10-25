@@ -1,0 +1,18 @@
+[
+    {
+        "id": 8426,
+        "nombre": "doble bacon",
+        "precio": "1550.89",
+        "tipo": "doble",
+        "cantidad": 45,
+        "imagen": "api\/ImagenesDeHamburguesas\/doble bacon doble.jpg"
+    },
+    {
+        "id": 4523,
+        "nombre": "mac con huevo",
+        "precio": "1450.89",
+        "tipo": "simple",
+        "cantidad": "11",
+        "imagen": "api\/ImagenesDeHamburguesas\/mac con huevo simple.jpg"
+    }
+]
